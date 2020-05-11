@@ -1,3 +1,4 @@
+/* Ver 1.1 */
 /****************************************
 *   Wzorzec Projektowy Builder          *
 *   (budowniczy)                        *  
@@ -5,6 +6,7 @@
 *   Opracowal Dworak Kamil              *
 *****************************************/
 
+#include "stdafx.h"
 #include <iostream>
 #include <string>
 using namespace std;
